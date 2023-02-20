@@ -23,6 +23,8 @@ As a facility manager, I would want UI to update a custom agent id.
 2. Unit test is passing
 3. Acceptance Criteria met
 4. Code Reviewed
+5. Code to test UAT
+6. Code deployed
 
 ## ETD
 

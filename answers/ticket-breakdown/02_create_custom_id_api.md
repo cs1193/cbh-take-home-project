@@ -29,6 +29,7 @@ As a facility manager, I would want to be able to set a custom id against a agen
 2. All POSTMAN criteria is passing
 3. Acceptance Criteria met
 4. Code Reviewed
+5. Code is deployed
 
 ## ETD
 

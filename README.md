@@ -1,3 +1,5 @@
+# See `answers` directory for Answers
+
 This project contains two challenges - a "Ticket Breakdown" challenge and a "Refactoring" challenge. The two challenges are unrelated, but you should complete both in the same folder and share the link in Coderbyte. Any written answers should be included in markdown files within this folder.
 
 
@@ -12,4 +14,3 @@ If you are a JS novice, here's how to get started:
 4. Run `npm start` to launch `index.js` for any manual testing
 
 
-> See `answers` directory for Answers
